@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="excel_scraper",
-    version="0.0.2",
+    version="0.0.3",
     author="aeorxc",
     description="Wrapper around morningstar commodity (LIM)",
     url="https://github.com/aeorxc/excel-scraper",
