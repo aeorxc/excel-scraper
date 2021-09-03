@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="excel_scraper",
-    version="0.0.1",
+    version="0.0.2",
     author="aeorxc",
     description="Wrapper around morningstar commodity (LIM)",
     url="https://github.com/aeorxc/excel-scraper",
@@ -15,7 +15,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=["pandas"],
+    install_requires=["pandas", "openpyxl"],
     python_requires=">=3.8",
     setup_requires=["pytest-runner"],
     tests_require=["pytest"],
