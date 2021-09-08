@@ -4,7 +4,7 @@ setuptools.setup(
     name="excel_scraper",
     version="0.0.3",
     author="aeorxc",
-    description="Wrapper around morningstar commodity (LIM)",
+    description="Utility library to scrape timeseries data from excel files",
     url="https://github.com/aeorxc/excel-scraper",
     project_urls={
         "Source": "https://github.com/aeorxc/excel-scraper",
