@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="excel_scraper",
-    version="0.0.6",
+    version="0.0.7",
     author="aeorxc",
     description="Utility library to scrape timeseries data from excel files into a pandas dataframe",
     url="https://github.com/aeorxc/excel-scraper",
